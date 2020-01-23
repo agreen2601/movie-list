@@ -1,0 +1,19 @@
+{
+    "movies": [
+        {
+            "id": 1,
+            "title": "Jurrasic Park",
+            "release-date": 1993
+        },
+    {
+            "id": 2,
+            "title": "Space Jam",
+            "release-date": 1996
+        },
+        {
+            "id": 3,
+            "title": "Mars Attacks",
+            "release-date": 1996
+        }
+    ]
+}
